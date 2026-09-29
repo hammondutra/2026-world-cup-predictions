@@ -1,18 +1,4 @@
-# macOS
-.DS_Store
-
-# Python
-__pycache__/
-*.py[cod]
 .venv/
-venv/
-
-# Jupyter
+__pycache__/
 .ipynb_checkpoints/
-
-# Environment variables / secrets
-.env
-.env.*
-
-# Duplicate packaged outputs
-wc26_visual_outputs.zip
+.DS_Store

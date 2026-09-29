@@ -1,0 +1,37 @@
+[
+  {
+    "artifact": "frozen Elo ratings",
+    "source_library_folder": "/World Cup Predictions",
+    "filename": "optimized_elo_2026(3).csv",
+    "sha256": "74fb55694143b7f4baac8afb1b8b49a64d7b146f0d85ad85d94ce8d7e60d310b",
+    "size_bytes": 1359
+  },
+  {
+    "artifact": "original later simulator",
+    "source_library_folder": "/World Cup Predictions",
+    "filename": "world_cup_visual_bracket_simulator.py",
+    "sha256": "9713ef5049df00b46c81c5184bd22073ca2ef7eea28cee7a9a60daf142cbd0e0",
+    "size_bytes": 29443
+  },
+  {
+    "artifact": "original earlier ratings notebook",
+    "source_library_folder": "/World Cup Predictions",
+    "filename": "team_ratings(4).ipynb",
+    "sha256": "b712a1c6c356183f467a5cc08f7a63b33ddce9e6f492492424e353de0310d3ed",
+    "size_bytes": 36187
+  },
+  {
+    "artifact": "original generic bracket notebook",
+    "source_library_folder": "/World Cup Predictions",
+    "filename": "bracket_simulation(3).ipynb",
+    "sha256": "b6b4c71026b259775aab98fd834e3ff4df000a071590e7e023af7842475eb6d8",
+    "size_bytes": 121089
+  },
+  {
+    "artifact": "original 600-run visual package",
+    "source_library_folder": "/World Cup Predictions",
+    "filename": "wc26_visual_outputs(4).zip",
+    "sha256": "daaa33297180855a37dde84f2b80f30f9978c7f6f385011cc8542d7ee9dbb07b",
+    "size_bytes": 1532837
+  }
+]
